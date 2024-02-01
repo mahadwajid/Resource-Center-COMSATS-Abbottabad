@@ -1,6 +1,9 @@
 
 # Resource-Center-COMSATS-Abbottabad 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShahxHussain.Resource-Center-COMSATS-Abbottabad)](https://github.com/ShahxHussain/Resource-Center-COMSATS-Abbottabad)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShahxHussain%2FResource-Center-COMSATS-Abbottabad&label=Visitors%2FViews&countColor=%23263759)
+
+
+<!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShahxHussain%2FResource-Center-COMSATS-Abbottabad"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShahxHussain%2FResource-Center-COMSATS-Abbottabad&label=Visitors%2FViews&countColor=%23263759" /></a> ! -->
 
 <h2>🌟A Unified Repository for COMSATS Academic Resources & Past-Papers📖 </h2>
 
