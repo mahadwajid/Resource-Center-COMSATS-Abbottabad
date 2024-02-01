@@ -1,6 +1,6 @@
 # Resource-Center-COMSATS-Abbottabad
 
-<h2>🌟A Unified Repository for COMSATS Academic Resources and Past Papers📖 </h2>
+<h2>🌟A Unified Repository for COMSATS Academic Resources & Past-Papers📖 </h2>
 
 <p>Created by <strong>SYED SHAH HUSSAIN</strong> to serve the entire COMSATS Abbottabad community! 🎓📚</p>
 
@@ -63,7 +63,7 @@
             <ul>
                 <li>Clone your forked repository to your local machine.</li>
                 <code>
-                    git clone https://github.com/your-username/Resource-Center-COMSATS.git
+                    git clone https://github.com/ShahxHussain/Resource-Center-COMSATS-Abbottabad.git
                     cd Resource-Center-COMSATS
                 </code>
             </ul>
