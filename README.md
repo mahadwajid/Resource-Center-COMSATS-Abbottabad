@@ -10,7 +10,7 @@
 <p>Created by <strong>SYED SHAH HUSSAIN</strong> to serve the entire COMSATS Abbottabad community! 🎓📚</p>
 
 <p>Welcome to Resource-Center-COMSATS! 🎓📚 Here, we aim to build a comprehensive collection of academic resources for
-        students and alumni of COMSATS. This repository is divided into two sections: <strong>Academic Resources</strong>
+        students and faculty of COMSATS. This repository is divided into two sections: <strong>Academic Resources</strong>
         and <strong>Past Papers</strong>.</p>
 
 <h3>Academic Resources:</h3>
