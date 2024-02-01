@@ -93,3 +93,9 @@
     </ol>
 <p>By following these guidelines, we can create a valuable and accessible resource center for the entire COMSATS Abbottabad
         community. 🚀📖</p>
+        <h3>Contact Information:</h3>
+<ul> 
+        <li>WhatsApp: <a href="https://wa.me/+923106620325">+923106620325</a></li>
+        <li>Email: <a href="mailto:shahhussain19288@gmail.com">shahhussain19288@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/syed-shah-hussain-badshah-5b1786288/">Syed Shah Hussain Badshah</a></li> </ul>
+<p>Feel free to <a href="mailto:shahhussain19288@gmail.com">email me</a>, <a href="https://wa.me/+923106620325">chat on WhatsApp</a>, or connect on <a href="https://www.linkedin.com/in/syed-shah-hussain-badshah-5b1786288/">LinkedIn</a>.</p>
