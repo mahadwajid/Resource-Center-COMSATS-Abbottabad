@@ -99,7 +99,7 @@
 <p>By following these guidelines, we can create a valuable and accessible resource center for the entire COMSATS Abbottabad
         community. 🚀📖</p>
         <h3>Contact Information:</h3>
-        <p>Connect with Syed Shah Hussain for any queries or collaboration. Let's build this hub together for the COMSATS Abbottabad community!</p>
+        <p>Connect with Syed Shah Hussain for any queries or collaboration! 🤝 Let's build this hub together for the COMSATS Abbottabad community! 🚀</p>
 <ul> 
         <li>WhatsApp: <a href="https://wa.me/+923106620325">+923106620325</a></li>
         <li>Email: <a href="mailto:shahhussain19288@gmail.com">shahhussain19288@gmail.com</a></li>
